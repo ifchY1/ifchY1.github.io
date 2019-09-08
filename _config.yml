@@ -1,9 +1,9 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
-facebook_appid:   #liberxue
+title:            "ifengchanyue"
+description:      "欢迎来到风缠月的blog"
+url:              https://ifengchanyue.com # 域名
+signoff:          "ifengchanyue" # Your name
+facebook_appid:   #ifengchanyue
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
@@ -14,10 +14,10 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         分享
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         下载
     url:          /road
     external:     false
   - name:         归档
